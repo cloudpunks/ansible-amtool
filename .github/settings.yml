@@ -1,6 +1,6 @@
 ---
 repository:
-  name: amtool
+  name: ansible-amtool
   description: Ansible role to install Alertmanager CLI
   topics: ansible, role, ansible-role, hacktoberfest
 
