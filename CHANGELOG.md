@@ -1,5 +1,15 @@
 # Changelog
 
+## [2.6.1](https://github.com/rolehippie/amtool/compare/v2.6.0...v2.6.1) (2026-02-16)
+
+### Dependencies
+
+* **patch:** update dependency prometheus/alertmanager to v0.31.1 ([#44](https://github.com/rolehippie/amtool/issues/44)) ([df5313b](https://github.com/rolehippie/amtool/commit/df5313b0834598807ac8679389dad201f20f27a6))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([57a5e79](https://github.com/rolehippie/amtool/commit/57a5e79e08d11be8b3283b5ba57af2bcb6a146cd))
+
 ## [2.6.0](https://github.com/rolehippie/amtool/compare/v2.5.1...v2.6.0) (2026-02-09)
 
 ### Dependencies
