@@ -1,5 +1,11 @@
 # Changelog
 
+## [2.11.1](https://github.com/rolehippie/amtool/compare/v2.11.0...v2.11.1) (2026-08-31)
+
+### Dependencies
+
+* **patch:** update dependency pipx:ansible-doctor to v8.4.1 ([#64](https://github.com/rolehippie/amtool/issues/64)) ([259aa45](https://github.com/rolehippie/amtool/commit/259aa45eb6509012e1f914ec5573e900315bae87))
+
 ## [2.11.0](https://github.com/rolehippie/amtool/compare/v2.10.0...v2.11.0) (2026-08-17)
 
 ### Dependencies
