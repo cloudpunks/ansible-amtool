@@ -1,5 +1,24 @@
 # Changelog
 
+## [2.12.2](https://github.com/rolehippie/amtool/compare/v2.12.1...v2.12.2) (2026-11-02)
+
+### Dependencies
+
+* **mise:** update dependency pipx:ansible-core to v2.21.5 ([#74](https://github.com/rolehippie/amtool/issues/74)) ([a82cd7a](https://github.com/rolehippie/amtool/commit/a82cd7a42194b045bcf3ebc638f47abd5a737ff6))
+* **mise:** update dependency pipx:ansible-doctor to v8.4.3 ([#75](https://github.com/rolehippie/amtool/issues/75)) ([4c90c8f](https://github.com/rolehippie/amtool/commit/4c90c8ff90fe05b928b7f5e749290aeeed7e32f8))
+* **mise:** update dependency pipx:ansible-lint to v26.10.0 ([#76](https://github.com/rolehippie/amtool/issues/76)) ([fd1f6b4](https://github.com/rolehippie/amtool/commit/fd1f6b4da54d2c3efe991dfc3ee9a6f8fd549cc2))
+* **mise:** update dependency pipx:ansible-lint to v26.10.1 ([#78](https://github.com/rolehippie/amtool/issues/78)) ([3c075cc](https://github.com/rolehippie/amtool/commit/3c075cc901a58b0260654ad250f7608c04095b23))
+* **mise:** update dependency pipx:ansible-lint to v26.9.0 ([#69](https://github.com/rolehippie/amtool/issues/69)) ([e7bbd65](https://github.com/rolehippie/amtool/commit/e7bbd65db4e7689071a342f7a537ce4d4402cee2))
+* **mise:** update dependency pipx:molecule to v26.10.0 ([#77](https://github.com/rolehippie/amtool/issues/77)) ([3d83e60](https://github.com/rolehippie/amtool/commit/3d83e609993542bd6b88278f3656bd52a8de0d14))
+* **mise:** update dependency pipx:molecule to v26.9.0 ([#70](https://github.com/rolehippie/amtool/issues/70)) ([c2b1efc](https://github.com/rolehippie/amtool/commit/c2b1efc6b54657432a182d4d0a555a5f3d297583))
+* **mise:** update dependency prek to v0.5.4 ([#71](https://github.com/rolehippie/amtool/issues/71)) ([6d918ce](https://github.com/rolehippie/amtool/commit/6d918ce10756e9aaa84434174423ebaae1cc9324))
+* **mise:** update dependency prek to v0.5.5 ([#73](https://github.com/rolehippie/amtool/issues/73)) ([f67c9ad](https://github.com/rolehippie/amtool/commit/f67c9ad287199233c37e9547e58467d3d9265b86))
+* **mise:** update dependency prek to v0.5.6 ([#79](https://github.com/rolehippie/amtool/issues/79)) ([71cef4c](https://github.com/rolehippie/amtool/commit/71cef4ce0e4822d906b61889a85509754482ad3b))
+* **mise:** update dependency prek to v0.5.7 ([#80](https://github.com/rolehippie/amtool/issues/80)) ([48a1ff9](https://github.com/rolehippie/amtool/commit/48a1ff95d777612c2b3d5c7dc2e6bf09bd135219))
+* **mise:** update dependency prek to v0.5.9 ([#83](https://github.com/rolehippie/amtool/issues/83)) ([b386e7b](https://github.com/rolehippie/amtool/commit/b386e7b2c8f50db18b9716e82829e7d29c08db98))
+* **mise:** update node.js to v26 ([#81](https://github.com/rolehippie/amtool/issues/81)) ([8da5193](https://github.com/rolehippie/amtool/commit/8da519387c4a7725d68261d44ee1c4c8b8bd7d40))
+* **patch:** update dependency prometheus/alertmanager to v0.34.2 ([#82](https://github.com/rolehippie/amtool/issues/82)) ([262dfd0](https://github.com/rolehippie/amtool/commit/262dfd02bd052b955e36ff9e1c59ab71820e5a29))
+
 ## [2.12.1](https://github.com/rolehippie/amtool/compare/v2.12.0...v2.12.1) (2026-09-21)
 
 ### Dependencies
