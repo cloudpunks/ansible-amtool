@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.13.0](https://github.com/rolehippie/amtool/compare/v2.12.2...v2.13.0) (2026-11-16)
+
+* automated readme update [skip ci] ([4c9f5b7](https://github.com/rolehippie/amtool/commit/4c9f5b77674990942df0ae1164ede34be7c39251))
+* automated release update [skip ci] ([038c679](https://github.com/rolehippie/amtool/commit/038c67965c3ccdb3a0c97c4604eef6dd4bee4425))
+
+### Dependencies
+
+* **minor:** update dependency prometheus/alertmanager to v0.35.0 ([#86](https://github.com/rolehippie/amtool/issues/86)) ([1c695c6](https://github.com/rolehippie/amtool/commit/1c695c6508848657e9a46d60a2f24dcafb3fe45a))
+* **mise:** update dependency pipx:ansible-lint to v26.11.0 ([#88](https://github.com/rolehippie/amtool/issues/88)) ([ba9fe17](https://github.com/rolehippie/amtool/commit/ba9fe17fc934d43ccc04620007b9aa481bed8b3c))
+* **mise:** update dependency prek to v0.5.10 ([#85](https://github.com/rolehippie/amtool/issues/85)) ([dce938b](https://github.com/rolehippie/amtool/commit/dce938b0137f2af4e3b01353e7bef09a86cd951b))
+
 ## [2.12.2](https://github.com/rolehippie/amtool/compare/v2.12.1...v2.12.2) (2026-11-02)
 
 ### Dependencies
